@@ -16,3 +16,7 @@ types (like int, float, boolean etc) provide a certain level of safety to our co
 a collection of types is called models
 to solve the problem of defining types in every function we use something called models
 pydantic helps to create these models with ease
+
+
+06-01-26:
+Today we covered how to implement the google genai SDK in our code. We also learnt how to pull new code from github to our local machine. Tomorrow we will be covering how to start making an AI agent with our backend code. Stay consistent and keep learning!
